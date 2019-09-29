@@ -1,0 +1,48 @@
+h1 {
+	font-size: 300%;
+	font-family: Bookman;
+	text-align: center;
+}
+
+
+p {
+	text-align: center;
+	font-family: Bookman;
+}
+
+
+h2 {
+	text-align: center;
+	font-size: 200%;
+	font-family: Bookman; 
+}
+
+
+h3 {
+  text-align: center;
+  font-size: 300%;
+}
+
+h6 {
+	text-align: right;
+	font-family: Brush Script MT;
+	font-size: 20%;
+}
+
+
+.rotateimg90 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+
+.rotateimg180 {
+  -webkit-transform:rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
